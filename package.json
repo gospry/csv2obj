@@ -1,6 +1,6 @@
 {
   "name": "csv2obj",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse CSV http incoming request and extract objects",
   "main": "./lib/index.js",
   "author": {
